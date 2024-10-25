@@ -1,7 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+Added a custom coin sprite, music and sound effects, multiple levels, a death zone that respawns players if they fall off the map, and start and end menus with custom backgrounds.
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
